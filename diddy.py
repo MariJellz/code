@@ -74,7 +74,7 @@ while is_running == True:
     if player.colliderect(bar and bar2):    
         print(score)
     
-
+#dmdmmdmdmdmdmdmmdmdm
 
     #zeichnen
     pygame.draw.rect(screen, 'white', player)
